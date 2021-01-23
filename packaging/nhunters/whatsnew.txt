@@ -1,0 +1,62 @@
+5/12/99
+
+-score command fixed
+-removed glow from predator during switchover
+-modified code that placed player in specatator mode when first connected
+-added 2 second delay on MOTD when first connected
+-changed maxrate cvar to only allow 2000+
+-default weapon code fixed
+-fixed rare crash when player cratered
+-smaller pak file - don't ask. :)
+-Xatrix version created - see NH-Xatrix-readme.txt in your xatrix directory
+
+4/19/99
+
+1.5 released
+
+-ported to 3.20 level code
+-now using stock 3.20 chasecam / observer
+-marine initial weapon server var added
+-predator rocket launcher 'overload' command added
+-scoreboard improvements
+-MOTD added.  Reads motd.txt file
+-info menu changed to read info.txt file
+-modified lighting effects during map changes
+-removed 'can't find pic' errors
+-added flashlight icon to hud
+-added overload icon to hud
+-added IR icon to hud
+-must now enter game by pressing your flashlight key
+-added 'report' command for reporting location of pred similar to CTF
+-added IR Goggles model to replace quad and invulnerability
+-safety mode for marine and predator
+-predator and marine models can now be changed
+-marine model can be forced or user can select
+-changed predator countdown from text to number countdown
+-totally reworked marine to predator switchover
+-using modified 3.20 map rotation
+-sv_maplist, sv_maplist2 and sv_maplist3 can be used for map rotating based on number of players on the server.  Configured using sv_maplist_small_max and sv_maplist_medium_max server variables
+-Added 5 page help menu describing the game and bindings etc
+-Added 'Models used' menu page to show current server configuration for predator and marine models
+-Code is much faster and smoother now thanks to Dingbat reworking alot of the code!
+-added batch/script files for users to get local and dedicated servers up easily.
+-previously unmentioned, holding a flare full term causes it to be thrown further.
+-new predator model added
+-lightning effects added
+-maxrate cvar added
+-2 demos created
+
+
+1/14/1999:
+
+1.44.4b released
+
+-Added message on attacker's screen and console when a marine kills another marine
+-Added predator's name to line when player is killed by predator
+-Disabled kill command for predator and observers etc
+-Added lighting effect to screen when changing maps
+-Removed Admin menu option, as it's not implemented yet
+
+1/04/1999:
+
+1.44.4a released

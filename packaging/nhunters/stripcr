@@ -1,0 +1,15 @@
+#!/bin/sh
+#Server dying?  Client dumping core?  These wild errors may be caused by
+#mixing Windows config/ini files with your Unix programs.  DOS/Win expects
+#lines to end with a line-feed and a carrage return (^M).  Unix doesn't
+#like the carrage return, and it causes some really wierd problems. The
+#attached script strips out there extra CTRL-M's.  
+#One more thing to look for in your config files:  Are you using the right
+#slash?  DOS uses '\' (backslash) in directory names.  Unix uses this character
+#as an escape character.  Even more wierd things.  Make sure you use '/'
+#(fore-slashes) in your config files where needed.
+
+cat $1 | tr -d '\015' > .stripcr
+mv .stripcr $1
+rm -f .stripcr
+

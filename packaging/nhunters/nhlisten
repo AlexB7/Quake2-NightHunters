@@ -1,0 +1,2 @@
+cd ..
+./quake2 +set game nhunters +set deathmatch 1 +exec nhserver.cfg

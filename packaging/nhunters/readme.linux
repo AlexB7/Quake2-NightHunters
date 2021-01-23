@@ -1,0 +1,24 @@
+All the text files (except this one) contain carriage returns, as that's
+what Windows and DOS like to see.
+
+Use the included script stripcr (which I originally found in the lmctf
+package) to remove the carriage return from the text files.  For example:
+
+stripcr nhserver.cfg
+
+To remove the carriage returns from all the Night Hunters text files, run:
+
+stripall
+
+If you copied the files from the ZIP file to Linux instead of the .tgz file, 
+you will have to:
+
+chmod +x stripcr
+chmod +x stripall
+chmod +x nhstart
+chmod +x nhded
+chmod +x nhlisten
+
+so the scripts will run.
+
+

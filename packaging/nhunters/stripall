@@ -1,0 +1,7 @@
+./stripcr autoexec.cfg
+./stripcr info.txt
+./stripcr motd.txt
+./stripcr nhdemo.txt
+./stripcr nhserver.cfg
+./stripcr readme.txt
+./stripcr whatsnew.txt

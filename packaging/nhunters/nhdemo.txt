@@ -1,0 +1,47 @@
+ NH Demo Readme:					April '99
+
+ By FaTaL:
+
+
+ Installation:
+ Just take the .zip file(nhdemo.zip) and extract it to the drive you use to run
+ quake2 with, it should extract the proper files to the proper places(hopefully :)
+
+ If not, heres where the files SHOULD be in order for the demo to run properly:
+
+ blank.pcx    quake2\nhunters\pics
+ night.pcx    quake2\nhunters\pics
+ demo1.dm2    quake2\nhunters\demos
+ nhdemo.txt   quake2\nhunters
+
+ to run the demo, just goto the ms-dos prompt, and from your q2 directory type
+ quake2 +set game nhunters +demomap demo1.dm2
+
+ If you have have any installation questions or problems while running the demo,
+ mail me at soulwound@hotmail.com(suggestions welcome too :)
+
+
+ Check out the Night Hunters webpage at www.planetquake.com/nighthunters
+  
+ ^^o^^ FaTaL
+
+
+
+ Thanks go to:
+ 
+ ^^o^^ BatCat, ^^o^^ DingBat, ^^o^^ Batmax, ConanHunter, Maru-ku and
+ to majoon for creating such a kick-ass mod :)
+
+ Majestic, ^^o^^ BatCat, ^^o^^BaTTy, Yama, ^^o^^SpiderBAT and ^^o^^ DingBat
+ for being filmed without knowing it(and looking good in the camera) :)
+
+ And also  ^^o^^ BatCat for recording the demo and being the main focus of
+ action and also for his plethora of suggestions and ideas 
+
+ Id software(obiviously)
+
+
+
+Stay tuned for more demos to come from me :)
+
+^^o^^ FaTaL
