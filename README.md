@@ -31,7 +31,7 @@ Night Hunters mod for Quake 2
 
  This is the source code for the Quake2 mod NightHunters 1.51
 
- A 32-bit pre-compiled version can be downloaded from 
+ A 32-bit pre-compiled Windows and Linux version can be downloaded from 
  https://www.fragit.net/nighthunters/main.html (nh1-51.zip / nh1-51.tgz).  The 
  distribution files are also available in the /packaging folder. 
 
