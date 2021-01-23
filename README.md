@@ -3,6 +3,7 @@ Night Hunters mod for Quake 2
 
  Night Hunters 1.51	https://www.fragit.net/nighthunters/main.html
 
+```
  Credits:
 	Main team
 		Programming/System/Servers BatMax       (batmax@fragit.net)
@@ -24,7 +25,7 @@ Night Hunters mod for Quake 2
 
 		for progaming do's/don'ts Qdevels
 		  https://web.archive.org/web/20050206111022/http://www.planetquake.com/qdevels/
-
+```
 
  ----
 
