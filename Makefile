@@ -79,7 +79,8 @@ GAME_OBJS = \
 	$(BUILDDIR)/p_predator.o \
 	$(BUILDDIR)/g_nh.o \
 	$(BUILDDIR)/g_lightning.o \
-	$(BUILDDIR)/g_cvars.o 
+	$(BUILDDIR)/g_cvars.o \
+	$(BUILDDIR)/m_move.o 
 
 
 $(BUILDDIR)/game$(ARCH).$(SHLIBEXT) : $(GAME_OBJS)
